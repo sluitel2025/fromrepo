@@ -1,35 +1,16 @@
 
 # fromrepo
 Fiona Callahna is editing the file
-
-
-# fromrepo# Katie Park
-
-
-# fromrepo# Christian Carrington
-
-
-# fromrepo# Sean Pierce
-
-
-# fromrepo# Abby Skillestad
-
-
-# fromrepo# Jon Larson
+# Katie Park
+# Christian Carrington
+# Sean Pierce
+# Abby Skillestad
+# Jon Larson
 # Xavier Melancon
-
-Xavier Barinaga
-
-# fromrepo Noah Apostol
-
-# fromrepo# Fabricio Pons Samano
-
-
+# Xavier Barinaga
+# Noah Apostol
+# Fabricio Pons Samano
 Yusen Xia
-
 Lydia Lonzarich
-
-
-#fromcody
-
+# fromcody
 Yusen Xia
